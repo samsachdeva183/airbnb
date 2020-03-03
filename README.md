@@ -5,7 +5,7 @@ Exploring and Analyzing Airbnb Listing in Toronto, Canada
 Inside Airbnb(http://insideairbnb.com/get-the-data.html) is a website that utilizes public information compiled from the Airbnb web-site and analyzes publicly available information about a city’s Airbnb’s listings, and provides filters and key metrics so we can see how Airbnb is being used in the major cities around the world.
 
 I worked with the Toronto data here as I will be moving to Toronto soon, so I thought it would be interesting.
-It had one year worth of data from Dec 2018 to Dec 2019
+It had one year worth of data from Dec 2019 to Dec 2020
 
 I did exploratory data analysis and tried to answer some questions like:
 
