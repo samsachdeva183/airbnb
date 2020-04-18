@@ -17,4 +17,4 @@ I did exploratory data analysis and tried to answer some questions like:
 6. How does the average price of the houses compare with the number of reviews received?
 
 
-I also built a regression model to predict prices and got a R2 score of 73% on the test data.
+I also built a regression model to predict prices and got a R2 score of 92%, 70% on the train data test data respectively.
